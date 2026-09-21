@@ -10,3 +10,8 @@ def resta_dos_numeros():
 
 resta_dos_numeros()
 
+
+def division_dos_numeros(numero1,numero2):
+    return numero1/numero2
+
+print(division_dos_numeros(81,9))
