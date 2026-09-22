@@ -1,1 +1,1 @@
-# Logica de un programa
+# Editado desde la rama main
